@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **NodeJs DotNet**
+- 🌱 I’m currently learning **Native IOS**
 
-- 💬 Ask me about **Flutter C#**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **numancalik42@gmail.com**
 
